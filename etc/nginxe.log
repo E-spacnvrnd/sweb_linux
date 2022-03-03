@@ -1,0 +1,1 @@
+2022/03/02 18:08:15 [error] 11962#11962: *1 open() "/home/rerbim/stepik/sweb_linux/uploads/uploads/picture.bmp" failed (2: No such file or directory), client: 127.0.0.1, server: , request: "HEAD /uploads/picture.bmp HTTP/1.1", host: "localhost"
